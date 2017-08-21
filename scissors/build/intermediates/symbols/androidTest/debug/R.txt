@@ -1,0 +1,15 @@
+int attr cropviewMaxScale 0x7f010003
+int attr cropviewMinScale 0x7f010004
+int attr cropviewViewportOverlayColor 0x7f010001
+int attr cropviewViewportOverlayPadding 0x7f010002
+int attr cropviewViewportRatio 0x7f010000
+int mipmap frame 0x7f020000
+int mipmap ic_launcher 0x7f020001
+int mipmap ic_launcher_round 0x7f020002
+int mipmap passport 0x7f020003
+int[] styleable CropView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004 }
+int styleable CropView_cropviewMaxScale 3
+int styleable CropView_cropviewMinScale 4
+int styleable CropView_cropviewViewportOverlayColor 1
+int styleable CropView_cropviewViewportOverlayPadding 2
+int styleable CropView_cropviewViewportRatio 0
